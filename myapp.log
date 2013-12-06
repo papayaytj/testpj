@@ -1,0 +1,14 @@
+Thu, 05 Dec 2013 13:50:32 - INFO: This is info message
+Thu, 05 Dec 2013 13:50:32 - WARNING: This is warning message
+Thu, 05 Dec 2013 13:50:32 - ERROR: This is error message
+Thu, 05 Dec 2013 13:50:32 - CRITICAL: This is critical message
+Thu, 05 Dec 2013 13:50:32 - INFO: 0
+Thu, 05 Dec 2013 13:50:32 - INFO: 1
+Thu, 05 Dec 2013 13:50:32 - INFO: 2
+Thu, 05 Dec 2013 13:50:32 - INFO: 3
+Thu, 05 Dec 2013 13:50:32 - INFO: 4
+Thu, 05 Dec 2013 13:50:32 - INFO: 5
+Thu, 05 Dec 2013 13:50:32 - INFO: 6
+Thu, 05 Dec 2013 13:50:32 - INFO: 7
+Thu, 05 Dec 2013 13:50:32 - INFO: 8
+Thu, 05 Dec 2013 13:50:32 - INFO: 9
